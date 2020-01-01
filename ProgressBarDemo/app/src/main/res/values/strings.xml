@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressBarDemo</string>
+    <string name="progressapp">ProgressApp</string>
+    <string name="download_file">Download File</string>
+</resources>
